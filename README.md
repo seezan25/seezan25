@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @seezan25
+- 👀 I’m interested in web development.
+- 🌱 I’m currently learning MERN Stack.
+- 💞️ I’m looking to collaborate on front-end projects.
+- 📫 How to reach me 16006372@aadikavicampus.edu.np
